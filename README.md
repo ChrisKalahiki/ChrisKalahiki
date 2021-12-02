@@ -6,8 +6,8 @@
  <a href="https://www.linkedin.com/in/CHrisKalahiki"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
-  <img src="https://github.com/username/github-stats/blob/master/generated/overview.svg"/>
-  <img src="https://github.com/username/github-stats/blob/master/generated/languages.svg"/>
+  <img src="https://github.com/ChrisKalahiki/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/ChrisKalahiki/github-stats/blob/master/generated/languages.svg"/>
 </details>
 </div>
 
