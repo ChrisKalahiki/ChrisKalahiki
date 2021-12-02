@@ -11,6 +11,13 @@
 </details>
 </div>
 
+<details>
+  <summary>Waka Stats</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
 <!--
 **ChrisKalahiki/ChrisKalahiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
