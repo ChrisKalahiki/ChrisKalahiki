@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 107 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 6.0 MB Used in GitHub's Storage 
  > 
@@ -55,18 +55,16 @@ Sunday       104 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   20 mins             █████████████░░░░░░░░░░░░   52.7% 
-Text                     17 mins             ██████████░░░░░░░░░░░░░░░   43.26% 
-Rust                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-adventofcode2021solutions39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +85,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChrisKalahiki/ChrisKalahiki/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
 
