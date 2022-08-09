@@ -14,7 +14,7 @@
 <details>
   <summary>Waka Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,17 +57,17 @@ Sunday       74 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 19 mins       ████████████████████████░   96.94% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+Python                   2 hrs 28 mins       ███████████████████████░░   94.8% 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.2%
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-clemson-breast-cancer    4 hrs 24 mins       █████████████████████████   100.0%
+clemson-breast-cancer    2 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████████████████   100.0%
+Linux                    2 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChrisKalahiki/ChrisKalahiki/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/08/2022 18:46:23 UTC
+ Last Updated on 09/08/2022 18:48:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
