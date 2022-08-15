@@ -14,7 +14,7 @@
 <details>
   <summary>Waka Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChrisKalahiki/ChrisKalahiki/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 18:47:40 UTC
+ Last Updated on 15/08/2022 18:50:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
