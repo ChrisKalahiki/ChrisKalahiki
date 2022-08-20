@@ -57,19 +57,16 @@ Sunday       74 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     1 hr 18 mins        ██████████████░░░░░░░░░░░   56.42% 
-Other                    57 mins             ██████████░░░░░░░░░░░░░░░   41.5% 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MUI_Test_Example         2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,7 +87,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChrisKalahiki/ChrisKalahiki/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 18:57:31 UTC
+ Last Updated on 20/08/2022 18:50:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
