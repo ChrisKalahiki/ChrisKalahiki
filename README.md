@@ -28,48 +28,6 @@
  > 
 > 🔑 24 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-🌆 Daytime    195 commits    ██████████░░░░░░░░░░░░░░░   40.21% 
-🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   31.75% 
-🌙 Night      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-Wednesday    116 commits    ██████░░░░░░░░░░░░░░░░░░░   23.92% 
-Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
-Saturday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
-Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.26%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -87,7 +45,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ChrisKalahiki/ChrisKalahiki/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:52:03 UTC
+ Last Updated on 05/09/2022 18:54:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
