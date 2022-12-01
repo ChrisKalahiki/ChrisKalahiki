@@ -6,5 +6,5 @@
  <a href="https://www.linkedin.com/in/ChrisKalahiki"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
