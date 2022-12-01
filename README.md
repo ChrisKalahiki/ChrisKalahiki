@@ -5,7 +5,7 @@
  <a href="https://twitter.com/ChrisKalahiki"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/ChrisKalahiki"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-<div>
-  <h3>Github Stats:</h3>
-  [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+<h3>Github Stats</h3>
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
