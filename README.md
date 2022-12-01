@@ -6,11 +6,13 @@
  <a href="https://www.linkedin.com/in/ChrisKalahiki"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
-  [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki)](https://github.com/anuraghazra/github-readme-stats)
+  
   <!-- <img src="https://github.com/ChrisKalahiki/github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/ChrisKalahiki/github-stats/blob/master/generated/languages.svg"/> -->
 </details>
 </div>
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisKalahiki&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <details>
   <summary>Waka Stats</summary> -->
